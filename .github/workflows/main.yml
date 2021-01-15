@@ -30,6 +30,6 @@ jobs:
           # Personal access token with `read:user` scope and optional `repo` scope
           token: 
           # Path to template file
-          template: # default is ./TEMPLATE.md
+          template: # default is ./custom.md
           # Path to generated file
           readme: # default is ./README.md
