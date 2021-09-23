@@ -4,14 +4,12 @@
 </div>
 <hr/>
 <div align='left'>
-  <p>
-    <a href='mailto:tharindarajapakshe@y7mail.com' target='_blank'>
-      <img alt='Email' src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'>
-    </a>
-    <a href='https://www.linkedin.com/in/tharinda-rajapaksha' target='_blank'>
-      <img alt='LinkedIn' src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
-    </a>
-  </p>
+  <a href='mailto:tharindarajapakshe@y7mail.com' target='_blank'>
+    <img alt='Email' src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'>
+  </a>
+  <a href='https://www.linkedin.com/in/tharinda-rajapaksha' target='_blank'>
+    <img alt='LinkedIn' src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
+  </a>
 </div>
 <hr/>
 <div align='left'>
