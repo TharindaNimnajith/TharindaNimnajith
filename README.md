@@ -4,10 +4,10 @@
 </div>
 <hr/>
 <div align='left'>
-  <a href='mailto:tharindarajapakshe@y7mail.com' target='_blank'>
+  <a href='mailto:tharindarajapakshe@y7mail.com' target='_blank' style='text-decoration: none'>
     <img alt='Email' src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'>
   </a>
-  <a href='https://www.linkedin.com/in/tharinda-rajapaksha' target='_blank'>
+  <a href='https://www.linkedin.com/in/tharinda-rajapaksha' target='_blank' style='text-decoration: none'>
     <img alt='LinkedIn' src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
   </a>
 </div>
