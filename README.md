@@ -1,28 +1,36 @@
-### Hello, World! 👋
 <!--suppress HtmlDeprecatedAttribute -->
+<div align='left'>
+  <h3>Hello, World! 👋</h3>
+</div>
 <hr/>
-<p>
-  <a href='mailto:tharindarajapakshe@y7mail.com' target='_blank'>
-    <img alt='Email' src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'>
+<div align='left'>
+  <p>
+    <a href='mailto:tharindarajapakshe@y7mail.com' target='_blank'>
+      <img alt='Email' src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'>
+    </a>
+    <a href='https://www.linkedin.com/in/tharinda-rajapaksha' target='_blank'>
+      <img alt='LinkedIn' src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
+    </a>
+  </p>
+</div>
+<hr/>
+<div align='center'>
+  <a href='#'>
+    <img alt='GitHub Stats'
+         src='https://github-readme-stats.vercel.app/api?username=TharindaNimnajith&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F'
+         height='200'/>
   </a>
-  <a href='https://www.linkedin.com/in/tharinda-rajapaksha' target='_blank'>
-    <img alt='LinkedIn' src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
+</div>
+<hr/>
+<div align='center'>
+  <a href='#'>
+    <img alt='Top Languages'
+         src='https://github-readme-stats.vercel.app/api/top-langs/?username=TharindaNimnajith&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F'
+         height='200'/>
   </a>
-</p>
+</div>
 <hr/>
-<a href='#'>
-  <img alt='GitHub Stats'
-       src='https://github-readme-stats.vercel.app/api?username=TharindaNimnajith&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F'
-       height='200'/>
-</a>
-<hr/>
-<a href='#'>
-  <img alt='Top Languages'
-       src='https://github-readme-stats.vercel.app/api/top-langs/?username=TharindaNimnajith&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F'
-       height='200'/>
-</a>
-<hr/>
-<p align='center'>
+<div align='center'>
   <a href='#'><img alt='icon' src='https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=F0DB4F'></a>
   <a href='#'><img alt='icon' src='https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F'></a>
   <a href='#'><img alt='icon' src='https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F'></a>
@@ -39,4 +47,4 @@
   <a href='#'><img alt='icon' src='https://img.shields.io/badge/Heroku-0D1117?style=flat-square&logo=heroku&logoColor=F0DB4F'></a>
   <a href='#'><img alt='icon' src='https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F'></a>
   <a href='#'><img alt='icon' src='https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=F0DB4F'></a>
-</p>
+</div>
