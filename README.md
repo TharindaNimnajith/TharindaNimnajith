@@ -3,7 +3,7 @@
   <h3>Hello, World! 👋</h3>
 </div>
 <hr/>
-<div align='left'>
+<div align='left' style='text-decoration: none'>
   <a href='mailto:tharindarajapakshe@y7mail.com' target='_blank' style='text-decoration: none'>
     <img alt='Email' src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'>
   </a>
