@@ -1,6 +1,8 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align='left'>
-  <h3>Hello, World! 👋</h3>
+  <h3>
+    Hello, World! 👋
+  </h3>
 </div>
 <hr/>
 <div>
@@ -16,7 +18,7 @@
   <br/>
   <div align='left'>
     I look for opportunities to learn and grow by making positive contributions to enhance the performance of the
-    company I am working.
+    company I am working for.
   </div>
 </div>
 <hr/>
