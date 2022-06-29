@@ -7,16 +7,16 @@
 <hr/>
 <div>
   <div align='left'>
-    I graduated with the Bachelor of Science (Honours) in Information Technology specializing in the field of Software
-    Engineering with First Class Honours and the Award for the Best Performance from Sri Lanka Institute of
-    Information Technology (SLIIT), Malabe.
+    I graduated with a Bachelor of Science (Honours) in Information Technology specializing in the field of Software
+    Engineering with First Class Honours and the Award for the Best Performance from Sri Lanka Institute of Information
+    Technology (SLIIT), Malabe.
   </div>
   <br/>
   <div align='left'>
-    I completed a Software Engineering Internship as a Trainee Software Developer from November 2019 to October 2020 at
-    IFS R&D International (Pvt) Ltd. Then I worked part-time as a Software Engineer at two tech startup companies
-    (Vertex and Cube360) on a variety of software projects. Currently, I am working at LSEG Technology (London Stock
-    Exchange Group) as a Software Engineer.
+    I completed a Software Engineering Internship as a Trainee Software Developer at IFS R&D International (Private)
+    Limited, Sri Lanka. Then I worked part-time as a Software Engineer at two startup tech companies (Vertex and
+    Cube360) on a variety of software projects. Currently, I am working at LSEG Technology, Malabe, Sri Lanka (An
+    London Stock Exchange Group Business) as a Software Engineer.
   </div>
   <br/>
   <div align='left'>
