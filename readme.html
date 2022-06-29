@@ -14,8 +14,8 @@
   <br/>
   <div align='left'>
     I completed a Software Engineering Internship as a Trainee Software Developer at IFS R&D International (Private)
-    Limited, Sri Lanka. Then I worked part-time as a Software Engineer at two startup tech companies (Vertex and
-    Cube360) on a variety of software projects. Currently, I am working at LSEG Technology, Malabe, Sri Lanka (An
+    Limited, Sri Lanka. Then I worked part-time as a Software Engineer at two Sri Lankan startup tech companies (Vertex
+    and Cube360) on a variety of software projects. Currently, I am working at LSEG Technology, Malabe, Sri Lanka (A
     London Stock Exchange Group Business) as a Software Engineer.
   </div>
   <br/>
