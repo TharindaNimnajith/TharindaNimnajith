@@ -7,11 +7,22 @@
 <hr/>
 <div>
   <div align='left'>
-    I am a final year undergraduate in the Bachelor of Science (Honours) in Information Technology specialized in
-    Software Engineering degree program, at Sri Lanka Institute of Information Technology, Malabe. I am a hardworking
-    individual who likes to work as a team, face new challenges, solve problems, gain knowledge, experience, and skills
-    on modern technologies in software engineering. I look for opportunities to learn and grow by making positive
-    contributions to enhance the performance of the company I am working for.
+    I graduated with the Bachelor of Science (Honours) in Information Technology specializing in the field of Software
+    Engineering with First Class Honours and the Award for the Best Performance from Sri Lanka Institute of
+    Information Technology (SLIIT), Malabe.
+  </div>
+  <br/>
+  <div align='left'>
+    I completed a Software Engineering Internship as a Trainee Software Developer from November 2019 to October 2020 at
+    IFS R&D International (Pvt) Ltd. Then I worked part-time as a Software Engineer at two tech startup companies
+    (Vertex and Cube360) on a variety of software projects. Currently, I am working at LSEG Technology (London Stock
+    Exchange Group) as a Software Engineer.
+  </div>
+  <br/>
+  <div align='left'>
+    I am a hardworking individual who likes to work as a team, face new challenges, solve problems, and gain knowledge
+    and experience on new technologies and modern trends in software engineering. I look for opportunities to learn and
+    grow by making positive contributions to enhance the performance of the company I am working for.
   </div>
 </div>
 <hr/>
