@@ -13,16 +13,16 @@
   </div>
   <br/>
   <div align='left'>
-    I completed a Software Engineering Internship as a Trainee Software Developer at IFS R&D International (Private)
-    Limited, Sri Lanka. Then I worked part-time as a Software Engineer at two Sri Lankan startup tech companies (Vertex
-    and Cube360) on a variety of software projects. Currently, I am working at LSEG Technology, Malabe, Sri Lanka (A
-    London Stock Exchange Group Business) as a Software Engineer.
+    I completed a one-year Software Engineering internship as a Trainee Software Developer at IFS R&D International
+    (Pvt) Ltd, Sri Lanka. Then I worked as a Software Engineer at the tech startup Cube360 on various software projects.
+    Currently, I am working as a Software Engineer at LSEG Technology (Millennium IT), Malabe.
   </div>
   <br/>
   <div align='left'>
-    I am a hardworking individual who likes to work as a team, face new challenges, solve problems, and gain knowledge
-    and experience on new technologies and modern trends in software engineering. I look for opportunities to learn and
-    grow by making positive contributions to enhance the performance of the company I am working for.
+    As a Software Engineer with more than 3 years of industry experience, I am a hard-working individual who likes to
+    work in a team, face new challenges, solve problems, and gain knowledge and expertise on new technologies and modern
+    trends in software engineering. I look for opportunities to learn and grow by making positive contributions to enhance
+    the performance of the company I am working for.
   </div>
 </div>
 <hr/>
