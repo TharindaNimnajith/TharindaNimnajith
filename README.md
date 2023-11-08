@@ -24,7 +24,7 @@
     trends in software engineering. I look for opportunities to learn and grow by making positive contributions to enhance
     the performance of the company I am working for.
   </div>
-</div> -->
+</div>
 <hr/>
 <div align='left'>
   <a href='mailto:tharindarajapakshe@y7mail.com'
@@ -39,7 +39,7 @@
     <img alt='LinkedIn'
          src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
   </a>
-</div>
+</div> -->
 <hr/>
 
 [//]: # (<div align='left'>)
