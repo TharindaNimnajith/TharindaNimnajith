@@ -4,7 +4,7 @@
     Hello, World! 👋
   </h3>
 </div>
-<hr/>
+<!-- <hr/>
 <div>
   <div align='left'>
     I graduated with a Bachelor of Science (Honours) in Information Technology specializing in the field of Software
@@ -24,7 +24,7 @@
     trends in software engineering. I look for opportunities to learn and grow by making positive contributions to enhance
     the performance of the company I am working for.
   </div>
-</div>
+</div> -->
 <hr/>
 <div align='left'>
   <a href='mailto:tharindarajapakshe@y7mail.com'
