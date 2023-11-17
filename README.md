@@ -4,7 +4,7 @@
     Hello, World! 👋
   </h3>
 </div>
-<!-- <hr/>
+<hr/>
 <div>
   <div align='left'>
     I graduated with a Bachelor of Science (Honours) in Information Technology specializing in the field of Software
@@ -39,7 +39,7 @@
     <img alt='LinkedIn'
          src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
   </a>
-</div> -->
+</div>
 <hr/>
 
 [//]: # (<div align='left'>)
