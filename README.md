@@ -7,9 +7,9 @@
 <hr/>
 <div>
   <div align='left'>
-    I graduated with a Bachelor of Science (Honours) in Information Technology, specialising in the field of Software
-    Engineering with First Class Honours and the Award for the Best Performance from the Sri Lanka Institute of
-    Information Technology (SLIIT), Malabe.
+    I graduated with a Bachelor of Science (Honours) in Information Technology, specialising in Software Engineering
+    with First Class Honours and the Award for the Best Performance from the Sri Lanka Institute of Information
+    Technology (SLIIT), Malabe.
   </div>
   <br/>
   <div align='left'>
