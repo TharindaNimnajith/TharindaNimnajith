@@ -13,13 +13,13 @@
   </div>
   <br/>
   <div align='left'>
-    I completed a one-year Software Engineering internship as a Trainee Software Developer at IFS R&D International
-    (Pvt) Ltd, Sri Lanka. Then I worked as a Software Engineer at the tech startup Cube360 on various software projects.
-    Currently, I am working as a Software Engineer at LSEG Technology (Millennium IT), Malabe.
+     I completed a one-year Software Engineering internship as a Trainee Software Developer at IFS R&D International
+     (Pvt) Ltd, Sri Lanka. Then I worked as a Software Engineer at Cube360 and LSEG Technology (Millennium IT), Malabe.
+     Currently, I am working as an Associate Lead Software Engineer at Altrium (Pvt) Ltd.
   </div>
   <br/>
   <div align='left'>
-    As a Software Engineer with more than 3 years of industry experience, I am a hard-working individual who likes to
+    As a Software Engineer with more than 6 years of industry experience, I am a hard-working individual who likes to
     work in a team, face new challenges, solve problems, and gain knowledge and expertise on new technologies and modern
     trends in software engineering. I look for opportunities to learn and grow by making positive contributions to enhance
     the performance of the company I am working for.
