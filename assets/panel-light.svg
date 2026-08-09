@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="6+ years across 4 companies. Java, Spring Boot, C++, Kubernetes, AWS. Payments and billing, capital markets, ERP.">
+<title>6+ years across 4 companies. Java, Spring Boot, C++, Kubernetes, AWS. Payments and billing, capital markets, ERP.</title>
+<style>
+  text{font-family:ui-monospace,SFMono-Regular,&#34;SF Mono&#34;,Menlo,Consolas,&#34;Liberation Mono&#34;,monospace}
+  .h{font-size:14px;fill:#8C959F;letter-spacing:2.6px}
+  .v{font-size:17px;fill:#59636E}
+  @keyframes r1{0%,2.6%{opacity:0}}
+  @keyframes r2{0%,6.3%{opacity:0}}
+  @keyframes r3{0%,8.9%{opacity:0}}
+  @keyframes r4{0%,7.9%{opacity:0}}
+  @keyframes r5{0%,11.6%{opacity:0}}
+  @keyframes r6{0%,14.2%{opacity:0}}
+  @keyframes r7{0%,13.2%{opacity:0}}
+  @keyframes r8{0%,16.8%{opacity:0}}
+  @keyframes r9{0%,19.5%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="1" y="1" width="1198" height="118" rx="10" fill="none" stroke="#D0D7DE"/><rect x="1" y="1" width="5" height="118" fill="#BC5B12"/><text class="h" x="44" y="34" style="animation:r1 1.9s cubic-bezier(.22,.9,.25,1)">EXPERIENCE</text><text class="v" x="44" y="68" style="animation:r2 1.9s cubic-bezier(.22,.9,.25,1)">6+ years</text><text class="v" x="44" y="94" style="animation:r3 1.9s cubic-bezier(.22,.9,.25,1)">4 companies</text><line x1="374" y1="18" x2="374" y2="104" stroke="#D0D7DE"/><text class="h" x="416" y="34" style="animation:r4 1.9s cubic-bezier(.22,.9,.25,1)">CORE</text><text class="v" x="416" y="68" style="animation:r5 1.9s cubic-bezier(.22,.9,.25,1)">Java  ·  Spring Boot</text><text class="v" x="416" y="94" style="animation:r6 1.9s cubic-bezier(.22,.9,.25,1)">C++  ·  Kubernetes  ·  AWS</text><line x1="746" y1="18" x2="746" y2="104" stroke="#D0D7DE"/><text class="h" x="788" y="34" style="animation:r7 1.9s cubic-bezier(.22,.9,.25,1)">DOMAINS</text><text class="v" x="788" y="68" style="animation:r8 1.9s cubic-bezier(.22,.9,.25,1)">Payments &amp; billing</text><text class="v" x="788" y="94" style="animation:r9 1.9s cubic-bezier(.22,.9,.25,1)">Capital markets  ·  ERP</text>
+</svg>

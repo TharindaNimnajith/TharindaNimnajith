@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Tharinda — Lead Software Engineer">
+<title>Tharinda — Lead Software Engineer</title>
+<style>
+  .name{font-family:-apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,&#34;Noto Sans&#34;,Helvetica,Arial,sans-serif;font-size:152px;font-weight:250;
+        fill:#E6EDF3;letter-spacing:-5px}
+  .stop{fill:#F0A93B}
+  .meta{font-family:ui-monospace,SFMono-Regular,&#34;SF Mono&#34;,Menlo,Consolas,&#34;Liberation Mono&#34;,monospace;font-size:19px;fill:#9198A1;letter-spacing:2.6px}
+  .tag{font-family:ui-monospace,SFMono-Regular,&#34;SF Mono&#34;,Menlo,Consolas,&#34;Liberation Mono&#34;,monospace;font-size:18px;fill:#636C76;letter-spacing:3px}
+  .hair{stroke:#3D444D;stroke-width:1}
+  @keyframes r1{0%,28.9%{opacity:0;transform:translateY(8px)}}
+  @keyframes r2{0%,33.7%{opacity:0;transform:translateY(8px)}}
+  @keyframes r3{0%,38.4%{opacity:0;transform:translateY(8px)}}
+  @keyframes r4{0%,43.2%{opacity:0;transform:translateY(8px)}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+
+  <text class="tag" x="70" y="62" style="animation:r5 1.9s cubic-bezier(.22,.9,.25,1)">THARINDA RAJAPAKSHA</text>
+  <text class="tag" x="1130" y="62" text-anchor="end"
+        style="animation:r6 1.9s cubic-bezier(.22,.9,.25,1)">SOFTWARE ENGINEERING</text>
+  <line class="hair" x1="70" y1="90" x2="1130" y2="90"
+        style="animation:r7 1.9s cubic-bezier(.22,.9,.25,1)"/>
+  <text class="name" x="60" y="214"
+        style="animation:r8 1.9s cubic-bezier(.22,.9,.25,1)">Tharinda<tspan
+        class="stop">.</tspan></text>
+  <line class="hair" x1="70" y1="248" x2="1130" y2="248"
+        style="animation:r9 1.9s cubic-bezier(.22,.9,.25,1)"/>
+  <line x1="478" y1="252" x2="478" y2="280" stroke="#3D444D"/><line x1="722" y1="252" x2="722" y2="280" stroke="#3D444D"/><line x1="942" y1="252" x2="942" y2="280" stroke="#3D444D"/><text class="meta" x="70" y="274" style="animation:r1 1.9s cubic-bezier(.22,.9,.25,1)">LEAD SOFTWARE ENGINEER</text><text class="meta" x="500" y="274" style="animation:r2 1.9s cubic-bezier(.22,.9,.25,1)">ALTRIUM</text><text class="meta" x="744" y="274" style="animation:r3 1.9s cubic-bezier(.22,.9,.25,1)">SINCE 2019</text><text class="meta" x="964" y="274" style="animation:r4 1.9s cubic-bezier(.22,.9,.25,1)">COLOMBO, LK</text>
+</svg>

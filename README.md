@@ -1,142 +1,65 @@
-<!--suppress HtmlDeprecatedAttribute -->
-<div align='left'>
-  <h3>
-    Hello, World! 👋
-  </h3>
-</div>
-<hr/>
-<div>
-  <div align='left'>
-    I graduated with a Bachelor of Science (Honours) in Information Technology, specialising in Software Engineering
-    with First Class Honours and the Award for the Best Performance from the Sri Lanka Institute of Information
-    Technology (SLIIT), Malabe.
-  </div>
-  <br/>
-  <div align='left'>
-     I completed a one-year Software Engineering internship as a Trainee Software Developer at IFS R&D International
-     (Pvt) Ltd, Sri Lanka. Then I worked as a Software Engineer at Cube360 and LSEG Technology (Millennium IT), Malabe.
-     Currently, I am working as an Associate Lead Software Engineer at Altrium (Pvt) Ltd.
-  </div>
-  <br/>
-  <div align='left'>
-    As a Software Engineer with more than 6 years of industry experience, I am a hard-working individual who likes to
-    work in a team, face new challenges, solve problems, and gain knowledge and expertise on new technologies and modern
-    trends in software engineering. I look for opportunities to learn and grow by making positive contributions to enhance
-    the performance of the company I am working for.
-  </div>
-</div>
-<hr/>
-<div align='left'>
-  <a href='mailto:tharindarajapakshe@y7mail.com'
-     target='_blank'
-     style='text-decoration: none'>
-    <img alt='Email'
-         src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'>
-  </a>
-  <a href='https://www.linkedin.com/in/tharinda-rajapaksha'
-     target='_blank'
-     style='text-decoration: none'>
-    <img alt='LinkedIn'
-         src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
-  </a>
-</div>
-<hr/>
+<!--
+  Artwork is generated: run `python3 tools/build_assets.py` after editing that
+  script. Do not hand-edit the files in assets/ — they get overwritten.
+  Everything here is self-hosted; there are no third-party image services.
+-->
 
-[//]: # (<div align='left'>)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Tharinda — Lead Software Engineer" src="assets/banner-light.svg" width="100%">
+</picture>
 
-[//]: # (  <a href='#'>)
+Lead Software Engineer at **Altrium**, building recurring payments and billing on Java, Spring Boot and Kubernetes.
+Before that, capital-markets clearing and settlement in C++ at **LSEG Technology**, full-stack product work, and published research in applied ML and NLP.
+I lead a Scrum team, review architecture, and spend a good part of every week mentoring the engineers around me.
 
-[//]: # (    <img alt='GitHub Stats')
+<sub>Open to conversations about hands-on engineering, architecture and engineering leadership · Most of my day-to-day work lives in private repositories</sub>
 
-[//]: # (         src='https://github-readme-stats.vercel.app/api?username=TharindaNimnajith&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F')
+### Stack
 
-[//]: # (         height='200'/>)
+| Area | Technologies |
+|:--|:--|
+| **Backend** | <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>Microservices</kbd> <kbd>REST</kbd> <kbd>C#</kbd> <kbd>.NET</kbd> |
+| **Systems & markets** | <kbd>C++</kbd> <kbd>SWIFT ISO 15022 / 20022</kbd> <kbd>FIX</kbd> <kbd>Clearing & settlement</kbd> |
+| **Platform** | <kbd>Kubernetes</kbd> <kbd>AWS EKS</kbd> <kbd>Docker</kbd> <kbd>Jenkins</kbd> <kbd>Redis</kbd> |
+| **Data** | <kbd>Oracle</kbd> <kbd>PostgreSQL</kbd> <kbd>SQL Server</kbd> <kbd>MongoDB</kbd> <kbd>PL/SQL</kbd> |
+| **Frontend** | <kbd>React</kbd> <kbd>React Native</kbd> <kbd>Angular</kbd> <kbd>TypeScript</kbd> |
+| **Quality** | <kbd>Spock</kbd> <kbd>Karate</kbd> <kbd>GoogleTest</kbd> <kbd>JMeter</kbd> <kbd>TDD / BDD</kbd> |
+| **ML** | <kbd>Python</kbd> <kbd>NLP</kbd> <kbd>Deep learning</kbd> <kbd>Signal processing</kbd> |
 
-[//]: # (  </a>)
+### Work
 
-[//]: # (</div>)
+| Years | Company | Role |
+|:--|:--|:--|
+| **2023 —** | Altrium | Lead Software Engineer |
+| 2021 — 2023 | LSEG Technology · MillenniumIT | Software Engineer |
+| 2020 — 2021 | Cube360 | Software Engineer |
+| 2019 — 2020 | IFS R&D International | Trainee Software Developer |
 
-[//]: # (<hr/>)
+### Projects
 
-[//]: # (<div align='left'>)
+**[English Buddy](https://github.com/TharindaNimnajith/english-buddy)** — e-learning platform for non-native English speakers, built on audio signal processing, reinforcement learning and NLP. Selected to represent SLIIT at the National Best Quality Software Awards.
 
-[//]: # (  <a href='#'>)
+**[Viral Pool](https://github.com/TharindaNimnajith/viral-pool-mobile)** — cross-platform React Native app for running social and digital marketing campaigns: dashboards, push notifications, media upload.
 
-[//]: # (    <img alt='Top Languages')
+### Writing & research
 
-[//]: # (         src='https://github-readme-stats.vercel.app/api/top-langs/?username=TharindaNimnajith&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F')
+**[English Language Trainer for Non-Native Speakers using Audio Signal Processing, Reinforcement Learning and Deep Learning](https://ieeexplore.ieee.org/document/9774785)**
+<sub>IEEE Xplore · 21st International Conference on Advances in ICT for Emerging Regions (ICTer), 2021</sub>
 
-[//]: # (         height='200'/>)
+Occasional notes at [tharindarajapaksha.blogspot.com](https://tharindarajapaksha.blogspot.com).
 
-[//]: # (  </a>)
+### Education & leadership
 
-[//]: # (</div>)
+BSc (Hons) in Information Technology, Software Engineering — SLIIT. First Class Honours, Award for the Best Performance, Dean's List for all eight semesters.
 
-[//]: # (<hr/>)
+I lead a Scrum team at Altrium, run technical interviews, and mentor engineers joining the team.
 
-<div align='center'>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Heroku-0D1117?style=flat-square&logo=heroku&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=F0DB4F'>
-  </a>
-</div>
+### Elsewhere
+
+[Email](mailto:tharindarajapakshe@y7mail.com) · [LinkedIn](https://www.linkedin.com/in/tharinda-rajapaksha) · [Blog](https://tharindarajapaksha.blogspot.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/panel-dark.svg">
+  <img alt="6+ years across 4 companies. Java, Spring Boot, C++, Kubernetes, AWS. Payments and billing, capital markets, ERP." src="assets/panel-light.svg" width="100%">
+</picture>

@@ -1,0 +1,39 @@
+name: Refresh README assets
+
+# The artwork is static apart from one derived value: the years-of-experience
+# figure in the panel. This runs monthly and commits only when the generated
+# output actually changes, so in practice it produces about one commit a year
+# rather than a daily bot commit.
+
+on:
+  schedule:
+    - cron: '0 3 1 * *'      # 03:00 UTC on the 1st of each month
+  workflow_dispatch:          # and on demand
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Regenerate assets
+        run: python3 tools/build_assets.py
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- assets/; then
+            echo "assets unchanged — nothing to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git commit -m "chore: refresh generated README assets"
+          git push
