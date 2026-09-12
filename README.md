@@ -15,11 +15,11 @@
   <div align='left'>
      I completed a one-year Software Engineering internship as a Trainee Software Developer at IFS R&D International
      (Pvt) Ltd, Sri Lanka. Then I worked as a Software Engineer at Cube360 and LSEG Technology (Millennium IT), Malabe.
-     Currently, I am working as an Associate Lead Software Engineer at Altrium (Pvt) Ltd.
+     Currently, I am working as a Lead Software Engineer at Altrium (Pvt) Ltd.
   </div>
   <br/>
   <div align='left'>
-    As a Software Engineer with more than 6 years of industry experience, I am a hard-working individual who likes to
+    As a Software Engineer with more than 7 years of industry experience, I am a hard-working individual who likes to
     work in a team, face new challenges, solve problems, and gain knowledge and expertise on new technologies and modern
     trends in software engineering. I look for opportunities to learn and grow by making positive contributions to enhance
     the performance of the company I am working for.
@@ -27,18 +27,8 @@
 </div>
 <hr/>
 <div align='left'>
-  <a href='mailto:tharindarajapakshe@y7mail.com'
-     target='_blank'
-     style='text-decoration: none'>
-    <img alt='Email'
-         src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'>
-  </a>
-  <a href='https://www.linkedin.com/in/tharinda-rajapaksha'
-     target='_blank'
-     style='text-decoration: none'>
-    <img alt='LinkedIn'
-         src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
-  </a>
+  <a href='mailto:tharindarajapakshe@y7mail.com' target='_blank'><img alt='Email' src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'></a>
+  <a href='https://www.linkedin.com/in/tharinda-rajapaksha' target='_blank'><img alt='LinkedIn' src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'></a>
 </div>
 <hr/>
 
@@ -75,68 +65,24 @@
 [//]: # (<hr/>)
 
 <div align='center'>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Heroku-0D1117?style=flat-square&logo=heroku&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F'>
-  </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=F0DB4F'>
-  </a>
+  <img alt='Python' src='https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=F0DB4F'>
+  <img alt='C++' src='https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=F0DB4F'>
+  <img alt='Java' src='https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F0DB4F'>
+  <img alt='Spring Boot' src='https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=F0DB4F'>
+  <img alt='SQL' src='https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F'>
+  <img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F'>
+  <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F'>
+  <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F'>
+  <img alt='React' src='https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F'>
+  <img alt='Node.js' src='https://img.shields.io/badge/Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F'>
+  <img alt='HTML5' src='https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F'>
+  <img alt='CSS3' src='https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F'>
+  <img alt='Git' src='https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F'>
+  <img alt='GitHub' src='https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F'>
+  <img alt='Markdown' src='https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F0DB4F'>
+  <img alt='Docker' src='https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F'>
+  <img alt='Kubernetes' src='https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=F0DB4F'>
+  <img alt='Heroku' src='https://img.shields.io/badge/Heroku-0D1117?style=flat-square&logo=heroku&logoColor=F0DB4F'>
+  <img alt='Microsoft Azure' src='https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F'>
+  <img alt='Amazon AWS' src='https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=F0DB4F'>
 </div>
